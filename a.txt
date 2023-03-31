@@ -1,0 +1,6 @@
+PEDROLOPEZSRVDireccionjuan
+
+\\PEDROLOPEZSRV\Perfil\Direccion\juan
+
+ randomInt2 = (int) (Math.random() * (panelcenter.getWidth()-panelcenter.getWidth()/2+1))+panelcenter.getWidth()/2;
+randomInt = (int) (Math.random() * (panelcenter.getWidth()/2 - labelpaper.getWidth()));
