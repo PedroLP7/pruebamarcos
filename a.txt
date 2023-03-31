@@ -6,3 +6,4 @@ PEDROLOPEZSRVDireccionjuan
 randomInt = (int) (Math.random() * (panelcenter.getWidth()/2 - labelpaper.getWidth()));
 
 HolaAnna
+Prueba de un pesado
