@@ -7,3 +7,8 @@ randomInt = (int) (Math.random() * (panelcenter.getWidth()/2 - labelpaper.getWid
 
 HolaAnna
 Prueba de un pesado
+
+-------------------------------------------------------------------------
+
+Eviam modifications:
+- Today 01/06/2023 we are working in Linux Scripts and Git commands :)
